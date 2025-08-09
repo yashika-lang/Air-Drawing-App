@@ -46,12 +46,9 @@ Air-Drawing-App/
 4. 📸 Demo
 https://github.com/user-attachments/assets/f852b049-1bc1-4991-ae8e-b864709919df
 ⸻
+Licence : 
 
-📜 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
-MIT License
-
+This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
 ⸻
 
 🤝 Contributing
